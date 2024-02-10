@@ -55,7 +55,7 @@ conda install spyder
 ``
 
 
-List all installed packer with their versions
+List all installed packer with their versions  
 ``
 pip freeze
 ``
