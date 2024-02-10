@@ -28,8 +28,11 @@ To deactivate an active environment, use
 $ conda deactivate
 ``
 
+
+
 ``
  458  export PATH="/home/dilip/anaconda3/bin:$PATH"
+
   459  PATH
   460  echo $PATH
   461  cd
@@ -37,10 +40,21 @@ $ conda deactivate
   463  conda --version
   464  conda create --name quant python=3.11
 
+  conda update --all
+
+``
+
+List all installed packer with their versions
+``
+pip freeze
 ``
    
 
 
-
+``
+conda update --all
+conda activate quant
+conda install spyder
+``
 
 
