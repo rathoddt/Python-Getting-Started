@@ -44,10 +44,7 @@ $ conda deactivate
 
 ``
 
-List all installed packer with their versions
-``
-pip freeze
-``
+
    
 
 
@@ -58,3 +55,7 @@ conda install spyder
 ``
 
 
+List all installed packer with their versions
+``
+pip freeze
+``
