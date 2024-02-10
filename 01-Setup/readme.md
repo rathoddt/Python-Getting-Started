@@ -20,7 +20,6 @@ You can undo this by running `conda init --reverse $SHELL`? [yes|no]
 [no] >>> 
 
 
-
 To activate this environment, use                                             
 ``                                                                               
 $ conda activate quant                                                    
@@ -38,7 +37,6 @@ conda activate
 conda --version
 conda create --name quant python=3.11
 ``
-   
 
 
 
