@@ -31,14 +31,12 @@ $ conda deactivate
 ``
 
 ``
- 458  export PATH="/home/dilip/anaconda3/bin:$PATH"
-  459  PATH
-  460  echo $PATH
-  461  cd
-  462  conda activate
-  463  conda --version
-  464  conda create --name quant python=3.11
+export PATH="/home/dilip/anaconda3/bin:$PATH"
+PATH
 
+conda activate
+conda --version
+conda create --name quant python=3.11
 ``
    
 
