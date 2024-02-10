@@ -21,3 +21,28 @@ You can undo this by running `conda init --reverse $SHELL`? [yes|no]
 
 
 
+To activate this environment, use                                             
+``                                                                               
+$ conda activate quant                                                    
+``
+To deactivate an active environment, use
+``
+$ conda deactivate
+``
+
+``
+ 458  export PATH="/home/dilip/anaconda3/bin:$PATH"
+  459  PATH
+  460  echo $PATH
+  461  cd
+  462  conda activate
+  463  conda --version
+  464  conda create --name quant python=3.11
+
+``
+   
+
+
+
+
+
